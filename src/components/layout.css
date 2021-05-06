@@ -1,0 +1,24 @@
+body {
+  background-image: url('../images/background.png');
+  background-attachment: fixed;
+  
+}
+
+.footer {
+  position: static;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #000;
+  color: white;
+  text-align: center;
+}
+.foo__li {
+  display: inline-block;
+  padding: 15px;
+}
+
+.social-icon {
+  height: 40px;
+  width: 40px;
+}

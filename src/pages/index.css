@@ -1,0 +1,21 @@
+h2 {
+    color: #fff;
+}
+
+.card {
+    background: #000;
+    color: #fff;
+    
+}
+
+.card1{
+    padding-left: 50px;
+}
+
+.cards{
+    display: flex;
+}
+
+.card-title{
+    text-align: center;
+}
